@@ -1,5 +1,4 @@
-<h1>설문조사 웹</h1>
-<h2>(React & Spring Data JPA)</h2>
+<h1>설문조사 웹(React & Spring Data JPA)</h1>
 
 <h2>UI</h2>
 
